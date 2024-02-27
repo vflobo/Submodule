@@ -1,0 +1,3 @@
+[submodule "GitHub"]
+	path = GitHub
+	url = git@github.com:vflobo/GitHub.git
